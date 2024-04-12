@@ -13738,7 +13738,8 @@ small, .small {
     letter-spacing: .5rem;
     font-size: 1.5rem;
     color: #fff;
-    font-weight: 900
+    font-weight: 900;
+    padding: 0px 5px;
 }
 
 .resume-role-title {
