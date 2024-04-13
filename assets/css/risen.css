@@ -13916,7 +13916,6 @@ small, .small {
 
 .resume-projects-section .item-heading a:hover {
     color: #629feb;
-    text-decoration: underline
 }
 
 .resume-projects-section .item-desc {
@@ -13965,5 +13964,12 @@ small, .small {
 @media(min-width: 992px) {
     .resume-wrapper {
         max-width: 980px
+    }
+}
+
+@media (min-width: 768px) {
+    .resume-projects-section .item:hover {
+      transform: scale(1.1);
+      margin-left: 2.2rem;
     }
 }
