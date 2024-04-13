@@ -13966,10 +13966,3 @@ small, .small {
         max-width: 980px
     }
 }
-
-@media (min-width: 768px) {
-    .resume-projects-section .item:hover {
-      transform: scale(1.1);
-      margin-left: 2.2rem;
-    }
-}
